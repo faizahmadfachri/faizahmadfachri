@@ -1,4 +1,4 @@
-<h1>Hi, I'm Faiz! <br/><a href="https://github.com/faizahmadfachri">Junior Web Developer & UI/UX Designer</a>, <a href="https://www.linkedin.com/in/faiz-ahmad-fachri-956767290/?originalSubdomain=id"> Creative Developer</a>, <a href="https://www.instagram.com/faizahmadfchri/">Content Creator</a></h1>
+<h1>Hi, I'm Faiz! <br/><a href="https://github.com/faizahmadfachri"> Creative Web Developer & UI/UX Designer</a>, <a href="https://www.linkedin.com/in/faiz-ahmad-fachri-956767290/?originalSubdomain=id"> Tech Enthusiast </a>, <a href="https://www.instagram.com/faizahmadfchri/">Content Creator</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -29,7 +29,6 @@
 - [Research & Development](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Teaching and Developing Interactive Learning Models](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<!--
 <h2> 📜 Upcoming Skills</h2>
 
 <h2> 📜 Video Demo </h2>
@@ -39,11 +38,12 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
--->
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [instagram]: https://www.instagram.com/faizahmadfchri/
 [linkedin]: https://www.linkedin.com/in/faiz-ahmad-fachri-956767290/?originalSubdomain=id
 
