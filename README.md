@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Landing Page</b>
-  - [Wesbite Gen Z untuk Adat](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wesbite Gen Z untuk Adat](https://github.com/faizahmadfachri/WebsiteGenZuntukAdat)
   - [Blended Finance Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
   - [NUSA - Platform SDGS Learning](https://github.com/joshmadakor1/Algorithms-Practice)
   - [ISPO - Palm Oil Company Website](https://github.com/joshmadakor1/Algorithms-Practice)
