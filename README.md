@@ -1,4 +1,4 @@
-<h1>Hi, I'm Faiz! <br/><a href="https://github.com/faizahmadfachri">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Faiz! <br/><a href="https://github.com/faizahmadfachri">Junior Web Developer & UI/UX Designer</a>, <a href="https://www.linkedin.com/in/faiz-ahmad-fachri-956767290/?originalSubdomain=id">Cybersecurity Professional</a>, <a href="https://www.instagram.com/faizahmadfchri/">Content Creator</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
