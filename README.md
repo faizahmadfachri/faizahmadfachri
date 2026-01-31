@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Landing Page</b>
+- <b></b>
   - [Wesbite Gen Z untuk Adat](https://github.com/faizahmadfachri/WebsiteGenZuntukAdat)
-  - [Blended Finance Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [NUSA - Platform SDGS Learning](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ISPO - Palm Oil Company Website](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [PalmGreen+](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [QuestLog RPG](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Podomoro Timer](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [LITERA](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [BUBU - AI Companion](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Blended Finance Dashboard](https://github.com/faizahmadfachri/Blended-Finance-Dashboard)
+  - [NUSA - Platform SDGS Learning](-)
+  - [ISPO - Palm Oil Company Website](https://github.com/faizahmadfachri/ISPO-Palm-Oil-Company)
+  - [PalmGreen+](https://github.com/faizahmadfachri/PalmGreen)
+  - [QuestLog RPG](https://github.com/faizahmadfachri/QuestLog-RPG)
+  - [Podomoro Timer](-)
+  - [LITERA](https://github.com/faizahmadfachri/LITERA)
+  - [BUBU - AI Companion](https://github.com/faizahmadfachri/BUBU---AI-Companion)
   - [AVATAR: Anonymous Virtual Assistance for Trauma And Recovery](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Petualangan TAMBOl Assistance for Trauma And Recovery](https://github.com/joshmadakor1/Algorithms-Practice)
 
