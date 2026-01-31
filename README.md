@@ -1,7 +1,7 @@
 <h1>Hi, I'm Faiz! <br/><a href="https://github.com/faizahmadfachri">Junior Web Developer & UI/UX Designer</a>, <a href="https://www.linkedin.com/in/faiz-ahmad-fachri-956767290/?originalSubdomain=id">Creative Developer</a>, <a href="https://www.instagram.com/faizahmadfchri/">Content Creator</a></h1>
 
 <h2>👨‍💻Projects</h2>
-- <b> Landing Page</b>
+- <b>Landing Page</b>
   - [Website Gen Z untuk Adat](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Website Gen Z untuk Adat](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
