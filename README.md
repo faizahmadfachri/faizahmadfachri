@@ -1,6 +1,7 @@
-<h1>Hi, I'm Faiz! <br/><a href="https://github.com/faizahmadfachri">Junior Web Developer & UI/UX Designer</a>, <a href="https://www.linkedin.com/in/faiz-ahmad-fachri-956767290/?originalSubdomain=id">Creative Developer</a>, <a href="https://www.instagram.com/faizahmadfchri/">Content Creator</a></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻Projects</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
