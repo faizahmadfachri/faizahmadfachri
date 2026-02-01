@@ -16,31 +16,30 @@
 
 <h2> 📜 Certifications </h2>
 - PENGEMBANGAN DIRI
-1. EDITING
-2. MOTION GRAPHIC
-3. SDGS
-4. 3D BUILDING
-5. MENULIS
-6. FINANCIAL LTIERACHY
-7.KERJA SAMPINGAN
-8.CYBER SECURITY
-9. APP DEVELOPMENT OR SISTEM DEVELOPMENT OR BLOCKCHAIN 
-10. KECERDASAN BUATAN
-11. ENGLISH LEARNING
-12. CYBER SECURIT
-13. IT LEARN
-144. IOT OR SISTEM INFORMASI
+- EDITING
+- MOTION GRAPHIC
+- SDGS
+- 3D BUILDING
+- MENULIS
+- FINANCIAL LTIERACHY
+- KERJA SAMPINGAN
+- CYBER SECURITY
+- APP DEVELOPMENT OR SISTEM DEVELOPMENT OR BLOCKCHAIN 
+- KECERDASAN BUATAN
+- ENGLISH LEARNING
+- IT LEARN
+- IOT OR SISTEM INFORMASI
 <h2> 📜 Other Skills</h2>
 
-- [Video Editing](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Videography & Photography](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Public Speaking](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Motion Graphic Designer](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Creative Production](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Social Media Specialist](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Graphic Design](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Research & Development](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Teaching and Developing Interactive Learning Models](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Video Editing](https://www.instagram.com/faizahmadfchri/)
+- [Videography & Photography](https://www.instagram.com/faizahmadfchri/)
+- [Public Speaking](https://www.instagram.com/faizahmadfchri/)
+- [Motion Graphic Designer](https://www.instagram.com/faizahmadfchri/)
+- [Creative Production](https://www.instagram.com/faizahmadfchri/)
+- [Social Media Specialist](https://www.instagram.com/faizahmadfchri/)
+- [Graphic Design](https://www.instagram.com/faizahmadfchri/)
+- [Research & Development](https://scholar.google.com/citations?user=mUuhz8QAAAAJ&hl=id)
+- [Teaching and Developing Interactive Learning Models](https://www.instagram.com/bimbel_jilc_perintis/)
 
 <h2> 📜 Upcoming Skills</h2>
 
