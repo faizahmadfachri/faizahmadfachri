@@ -12,7 +12,7 @@
   - [LITERA](https://github.com/faizahmadfachri/LITERA)
   - [BUBU - AI Companion](https://github.com/faizahmadfachri/BUBU---AI-Companion)
   - [AVATAR: Anonymous Virtual Assistance for Trauma And Recovery](-)
-  - [Petualangan TAMBOl Assistance for Trauma And Recovery](https://www.figma.com/proto/oIH051RNhYLAuNm3jIlFze/PETUALANGAN-TAMBO?page-id=0%3A1&node-id=1-4&viewport=204%2C218%2C0.1&t=UP3nOHBmySi6Ysyq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
+  - [Petualangan TAMBO Assistance for Trauma And Recovery](https://www.figma.com/proto/oIH051RNhYLAuNm3jIlFze/PETUALANGAN-TAMBO?page-id=0%3A1&node-id=1-4&viewport=204%2C218%2C0.1&t=UP3nOHBmySi6Ysyq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
 
 <h2> 📜 Certifications </h2>
 - 
