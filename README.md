@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b></b>
   - [Wesbite Gen Z untuk Adat](https://github.com/faizahmadfachri/WebsiteGenZuntukAdat)
   - [Podomoro Timer](https://github.com/faizahmadfachri/Blended-Finance-Dashboard)
   - [NUSA - Platform SDGS Learning](https://www.figma.com/proto/KZAionWsSWIUgL1PiddneH/NUSA?node-id=254-28&t=81ZZhxizhhftLoRS-1)
@@ -15,6 +14,7 @@
   - [Petualangan TAMBO Assistance for Trauma And Recovery](https://www.figma.com/proto/oIH051RNhYLAuNm3jIlFze/PETUALANGAN-TAMBO?page-id=0%3A1&node-id=1-4&viewport=204%2C218%2C0.1&t=UP3nOHBmySi6Ysyq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
 
 <h2> 📜 Certifications </h2>
+
 - PENGEMBANGAN DIRI
 - EDITING
 - MOTION GRAPHIC
