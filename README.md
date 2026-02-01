@@ -5,7 +5,7 @@
 - <b></b>
   - [Wesbite Gen Z untuk Adat](https://github.com/faizahmadfachri/WebsiteGenZuntukAdat)
   - [Blended Finance Dashboard](https://github.com/faizahmadfachri/Blended-Finance-Dashboard)
-  - [NUSA - Platform SDGS Learning](https://www.figma.com/proto/KZAionWsSWIUgL1PiddneH/Figma-for-Beginners--2020----Petma--the-social-media-app--for-pets---Community-?page-id=254%3A28&node-id=280-426&starting-point-node-id=280%3A426&t=RnGaBa2vtjjTif2T-1)
+  - [NUSA - Platform SDGS Learning](https://www.figma.com/proto/KZAionWsSWIUgL1PiddneH/NUSA?node-id=254-28&t=81ZZhxizhhftLoRS-1)
   - [ISPO - Palm Oil Company Website](https://github.com/faizahmadfachri/ISPO-Palm-Oil-Company)
   - [PalmGreen+](https://github.com/faizahmadfachri/PalmGreen)
   - [QuestLog RPG](https://github.com/faizahmadfachri/QuestLog-RPG)
