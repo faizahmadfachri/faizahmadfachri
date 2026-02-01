@@ -4,7 +4,7 @@
 
 - <b></b>
   - [Wesbite Gen Z untuk Adat](https://github.com/faizahmadfachri/WebsiteGenZuntukAdat)
-  - [Blended Finance Dashboard](https://github.com/faizahmadfachri/Blended-Finance-Dashboard)
+  - [Podomoro Timer](https://github.com/faizahmadfachri/Blended-Finance-Dashboard)
   - [NUSA - Platform SDGS Learning](https://www.figma.com/proto/KZAionWsSWIUgL1PiddneH/NUSA?node-id=254-28&t=81ZZhxizhhftLoRS-1)
   - [ISPO - Palm Oil Company Website](https://github.com/faizahmadfachri/ISPO-Palm-Oil-Company)
   - [PalmGreen+](https://github.com/faizahmadfachri/PalmGreen)
