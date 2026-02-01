@@ -5,15 +5,14 @@
 - <b></b>
   - [Wesbite Gen Z untuk Adat](https://github.com/faizahmadfachri/WebsiteGenZuntukAdat)
   - [Blended Finance Dashboard](https://github.com/faizahmadfachri/Blended-Finance-Dashboard)
-  - [NUSA - Platform SDGS Learning](-)
+  - [NUSA - Platform SDGS Learning](https://www.figma.com/proto/KZAionWsSWIUgL1PiddneH/Figma-for-Beginners--2020----Petma--the-social-media-app--for-pets---Community-?page-id=254%3A28&node-id=280-426&starting-point-node-id=280%3A426&t=RnGaBa2vtjjTif2T-1)
   - [ISPO - Palm Oil Company Website](https://github.com/faizahmadfachri/ISPO-Palm-Oil-Company)
   - [PalmGreen+](https://github.com/faizahmadfachri/PalmGreen)
   - [QuestLog RPG](https://github.com/faizahmadfachri/QuestLog-RPG)
-  - [Podomoro Timer](-)
   - [LITERA](https://github.com/faizahmadfachri/LITERA)
   - [BUBU - AI Companion](https://github.com/faizahmadfachri/BUBU---AI-Companion)
-  - [AVATAR: Anonymous Virtual Assistance for Trauma And Recovery](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Petualangan TAMBOl Assistance for Trauma And Recovery](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AVATAR: Anonymous Virtual Assistance for Trauma And Recovery](-)
+  - [Petualangan TAMBOl Assistance for Trauma And Recovery](https://www.figma.com/proto/oIH051RNhYLAuNm3jIlFze/PETUALANGAN-TAMBO?page-id=0%3A1&node-id=1-4&viewport=204%2C218%2C0.1&t=UP3nOHBmySi6Ysyq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
 
 <h2> 📜 Certifications </h2>
 - 
