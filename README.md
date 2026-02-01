@@ -15,7 +15,21 @@
   - [Petualangan TAMBO Assistance for Trauma And Recovery](https://www.figma.com/proto/oIH051RNhYLAuNm3jIlFze/PETUALANGAN-TAMBO?page-id=0%3A1&node-id=1-4&viewport=204%2C218%2C0.1&t=UP3nOHBmySi6Ysyq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
 
 <h2> 📜 Certifications </h2>
-- 
+- PENGEMBANGAN DIRI
+1. EDITING
+2. MOTION GRAPHIC
+3. SDGS
+4. 3D BUILDING
+5. MENULIS
+6. FINANCIAL LTIERACHY
+7.KERJA SAMPINGAN
+8.CYBER SECURITY
+9. APP DEVELOPMENT OR SISTEM DEVELOPMENT OR BLOCKCHAIN 
+10. KECERDASAN BUATAN
+11. ENGLISH LEARNING
+12. CYBER SECURIT
+13. IT LEARN
+144. IOT OR SISTEM INFORMASI
 <h2> 📜 Other Skills</h2>
 
 - [Video Editing](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -30,8 +44,8 @@
 
 <h2> 📜 Upcoming Skills</h2>
 
-<h2> 📜 Video Demo </h2>
-
+<h2> 📜 Video Demo (unfinished) </h2>
+<!--
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
